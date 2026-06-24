@@ -1,0 +1,9 @@
+*.db
+*.pyc
+__pycache__/
+dist/
+build/
+*.spec
+ui_prefs.json
+venv/
+.DS_Store
